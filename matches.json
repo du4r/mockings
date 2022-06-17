@@ -7,12 +7,12 @@
     "mandante": {
       "nome": "brasil",
       "forca": 5
-      "imagem": "todo"
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Flag_of_Brazil.svg/275px-Flag_of_Brazil.svg.png"
     },
     "visitante": {
       "nome": "argentina",
       "forca": 3
-      "imagem": "todo"
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/255px-Flag_of_Argentina.svg.png"
     }
 
 ]
