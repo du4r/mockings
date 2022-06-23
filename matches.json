@@ -1,55 +1,53 @@
-  [
-    {
-    "descricao": "Eliminatorias copa 2022",
+ [
+  {
+    "descricao": "Eliminatórias Copa 2022",
     "local": {
       "nome": "Maracanã",
-      "imagem": "https://uploads.metropoles.com/wp-content/uploads/2020/02/11195516/Maracan%C3%A3-Fla-Flu.jpg"
-      },
+      "imagem": "https://cdn.pixabay.com/photo/2016/03/29/17/07/maracana-1288818_1280.jpg"
+    },
     "mandante": {
-      "nome": "brasil",
-      "forca": 5
+      "nome": "Brasil",
+      "forca": 5,
       "imagem": "https://www.bandeirasnacionais.com/data/flags/normal/br.png"
     },
     "visitante": {
-      "nome": "argentina",
-      "forca": 3
+      "nome": "Argentina",
+      "forca": 5,
       "imagem": "https://www.bandeirasnacionais.com/data/flags/normal/ar.png"
     }
   },
- 
-  { 
-    "descricao": "Eliminatorias copa 2022",
+  {
+    "descricao": "Eliminatórias Copa 2022",
     "local": {
-      "nome": "soldier field",
-      "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmy8gHS3cUGKbSDNWfCk2LsAs8eE63Ea6TPHvAtIjSDYFHTiE64FIurBXq7G7RCEqTG1M&usqp=CAU"
-      },
+      "nome": "Olympic Stadium Hernando Siles",
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Hernando_Siles_Stadium_-_La_Paz.jpg"
+    },
     "mandante": {
-      "nome": "EUA",
-      "forca": 2
-      "imagem": "https://www.bandeirasnacionais.com/data/flags/normal/us.png"
+      "nome": "Bolívia",
+      "forca": 2,
+      "imagem": "https://www.bandeirasnacionais.com/data/flags/normal/bo.png"
     },
     "visitante": {
-      "nome": "brasil",
-      "forca": 5
+      "nome": "Brasil",
+      "forca": 5,
       "imagem": "https://www.bandeirasnacionais.com/data/flags/normal/br.png"
     }
   },
-    
   {
-    "descricao": "Eliminatorias copa 2022",
+    "descricao": "Eliminatórias Copa 2022",
     "local": {
       "nome": "Maracanã",
-      "imagem": "https://uploads.metropoles.com/wp-content/uploads/2020/02/11195516/Maracan%C3%A3-Fla-Flu.jpg"
-      },
+      "imagem": "https://cdn.pixabay.com/photo/2016/03/29/17/07/maracana-1288818_1280.jpg"
+    },
     "mandante": {
-      "nome": "brasil",
-      "forca": 5
+      "nome": "Brasil",
+      "forca": 5,
       "imagem": "https://www.bandeirasnacionais.com/data/flags/normal/br.png"
     },
     "visitante": {
-      "nome": "japao",
-      "forca": 2
-      "imagem": "https://www.bandeirasnacionais.com/data/flags/normal/jp.png"
+      "nome": "Colombia",
+      "forca": 3,
+      "imagem": "https://www.bandeirasnacionais.com/data/flags/normal/co.png"
     }
-   }  
+  }
 ]
