@@ -1,5 +1,6 @@
 [
-  { "descricao": "Eliminatorias copa 2022",
+  {
+    "descricao": "Eliminatorias copa 2022",
     "local": {
       "nome": "Maracanã",
       "imagem": "https://uploads.metropoles.com/wp-content/uploads/2020/02/11195516/Maracan%C3%A3-Fla-Flu.jpg"
@@ -14,9 +15,10 @@
       "forca": 3
       "imagem": "https://www.bandeirasnacionais.com/data/flags/normal/ar.png"
     }
-   },
+  },
  
-  { "descricao": "Eliminatorias copa 2022",
+  { 
+    "descricao": "Eliminatorias copa 2022",
     "local": {
       "nome": "soldier field",
       "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmy8gHS3cUGKbSDNWfCk2LsAs8eE63Ea6TPHvAtIjSDYFHTiE64FIurBXq7G7RCEqTG1M&usqp=CAU"
@@ -31,9 +33,10 @@
       "forca": 5
       "imagem": "https://www.bandeirasnacionais.com/data/flags/normal/br.png"
     }
-   },
+  },
     
-  { "descricao": "Eliminatorias copa 2022",
+  {
+    "descricao": "Eliminatorias copa 2022",
     "local": {
       "nome": "Maracanã",
       "imagem": "https://uploads.metropoles.com/wp-content/uploads/2020/02/11195516/Maracan%C3%A3-Fla-Flu.jpg"
